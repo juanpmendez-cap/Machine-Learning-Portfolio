@@ -5,6 +5,7 @@ This repository contains a collection of machine learning and artificial intelli
 Each project includes a structured analysis pipeline, from data preprocessing to model evaluation, with an emphasis on interpretability and methodological rigor.
 
 **Technologies Used**
+
 Python
 Pandas
 NumPy
@@ -36,17 +37,21 @@ View Project
 Implementation and evaluation of different classification algorithms to compare their performance under varying conditions and datasets.
 
 View Project
+
 **Key Skills Demonstrated**
+
 Data preprocessing and feature engineering
 Supervised learning (regression and classification)
 Model evaluation under class imbalance
 Comparative analysis of machine learning models
 Interpretation of statistical and predictive results
+
 **About This Portfolio**
 
 This repository is designed to serve as a professional portfolio of applied machine learning projects. The focus is not only on obtaining accurate models, but also on understanding the data, selecting appropriate methodologies, and clearly communicating results.
 
 **Notes**
+
 All projects are based on real or publicly available datasets.
 Reports are provided in both notebook and HTML format for accessibility.
 The repository is organized to facilitate navigation through GitHub Pages.
