@@ -19,6 +19,7 @@ Jupyter Notebook (.ipynb) with the full analysis
 HTML version of the report (.html) for web visualization
 Dataset used in the analysis (or link to the dataset)
 README file describing the project
+
 **Projects**
 1. Diabetes Risk Classification
 
