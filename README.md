@@ -1,0 +1,1 @@
+This repository contains a collection of machine learning and artificial intelligence projects developed using real-world datasets. The objective is to explore different modeling techniques, evaluate their performance, and extract meaningful insights.
